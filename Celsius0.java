@@ -16,7 +16,7 @@ public class Celsius0 {
         double roundedCelsius = Math.round(celsius * 100.0)/100.0;
 
         // Display the result
-        System.out.println(fahrenheit+ "Fahrenheit is equal to" + roundedCelsius + "Celsius.");
+        System.out.println(fahrenheit+ "Fahrenheit is equal to " + roundedCelsius + "Celsius.");
         
         // Close the scanner
         scanner.close();
