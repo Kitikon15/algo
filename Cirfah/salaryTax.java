@@ -1,4 +1,4 @@
-package Taxer;
+package Cirfah;
 import java.util.Scanner;
 
 public class salaryTax {

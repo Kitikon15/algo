@@ -1,3 +1,4 @@
+package Cirfah;
 
 import java.util.Scanner;
 
