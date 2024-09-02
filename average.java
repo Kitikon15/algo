@@ -1,5 +1,3 @@
-package fahrenCel;
-
 public class average {
     public static void main(String[]args){
         float num1 = 7;
