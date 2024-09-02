@@ -1,4 +1,4 @@
-package STF;
+package error;
 
 public class TestVariable {
     public static void main(String[] args) {
