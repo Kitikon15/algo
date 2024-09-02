@@ -1,4 +1,4 @@
-package STF;
+
 public class fahrenheit {
     public static void main(String[] args) {
         double fahrenheit = 80;

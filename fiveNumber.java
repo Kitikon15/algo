@@ -1,4 +1,4 @@
-package Taxer;
+
 import java.util.Scanner;
 
 public class fiveNumber {
