@@ -1,4 +1,4 @@
-package Cirfah;
+package fahrenCel;
 import java.util.Scanner;
 public class Celsius0 {
     public static void main(String[]args){

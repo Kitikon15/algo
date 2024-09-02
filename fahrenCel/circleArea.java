@@ -1,4 +1,4 @@
-package Cirfah;
+package fahrenCel;
 
 import java.util.Scanner;
 
